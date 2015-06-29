@@ -1,7 +1,9 @@
 Project: XOR Learning Neural Network
 Author: Ricky-N
 
-This code is a pretty close to direct translation into python of the code from this book:
+I used Anaconda for this which includes the numpy library and can be downloaded from a quick search
+
+The code is a nearly direct translation into python of the code from this book:
 
 Code Your Own Neural Network: A step-by-step explanation
 Stephen C. Shaffer
