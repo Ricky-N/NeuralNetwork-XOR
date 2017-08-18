@@ -1,5 +1,5 @@
 # Project: XOR Learning Neural Network
-#E Author: Ricky-N
+# Author: Ricky-N
 
 I used Anaconda for this which includes the numpy library and can be downloaded from a quick search  
 The code is a nearly direct translation into python of the code from this book:
